@@ -1,17 +1,6 @@
 
-
-# Netrinix Solutions 🌐  
-**Empowering Technology Through Innovation**
-
----
-
-## 🌟 Quick Overview  
-@ Netrinix Solutions, hum technology aur creativity ko milakar innovative networking, infosec aur ed-tech solutions deliver karte hain — jisse businesses grow karein aur future-ready banein. :contentReference[oaicite:1]{index=1}
-
----
-
 <p align="center">
-  <img src="https://netrinix.com/wp-content/uploads/2024/05/netrinix-logo.png" alt="Netrinix Logo" width="180"/>
+  <img src="https://netrinix.com/wp-content/uploads/2024/09/cropped-removed-bg.png" alt="Netrinix Logo" width="180"/>
 </p>
 
 <h1 align="center">Netrinix Solutions 🌐</h1>
