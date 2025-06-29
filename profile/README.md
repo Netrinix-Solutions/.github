@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://netrinix.com/wp-content/uploads/2024/09/cropped-removed-bg.png" alt="Netrinix Logo" width="180"/>
+  <img src="[https://netrinix.com/wp-content/uploads/2024/09/cropped-removed-bg.png](https://netrinix.com/wp-content/uploads/2024/09/cropped-removed-bg.png)" alt="Netrinix Logo" width="180"/>
 </p>
 
 <h1 align="center">Netrinix Solutions 🌐</h1>
