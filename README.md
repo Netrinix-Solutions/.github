@@ -4,6 +4,18 @@
 
 ---
 
+## 📖 Overview
+Netrinix Solutions ek **infosec & edutech** startup hai jo  
+- Network security assessments  
+- Cloud security architecture  
+- Vulnerability management  
+- Cybersecurity training & consulting  
+jaisi services provide karta hai.
+
+Website: https://netrinix.com
+
+--
+
 ## 📌 Website Flow
 
 ```mermaid
@@ -18,14 +30,3 @@ flowchart TD
   B --> C
   C --> D
   D --> E
-## 📖 Overview
-Netrinix Solutions ek **infosec & edutech** startup hai jo  
-- Network security assessments  
-- Cloud security architecture  
-- Vulnerability management  
-- Cybersecurity training & consulting  
-jaisi services provide karta hai.
-
-Website: https://netrinix.com
-
---
